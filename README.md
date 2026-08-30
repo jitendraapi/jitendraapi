@@ -8,7 +8,7 @@ Noida, Delhi NCR, India
 
 ## What I publish here
 
-Named, employer-safe artifacts - templates, research snapshots, and demos with honest scope. Not a dump of every experiment.
+Named artifacts - templates, research snapshots, and demos with honest scope. Not a dump of every experiment.
 
 | Artifact | Link |
 |----------|------|
