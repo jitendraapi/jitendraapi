@@ -10,11 +10,10 @@ Noida, Delhi NCR, India
 
 Named, employer-safe artifacts - templates, research snapshots, and demos with honest scope. Not a dump of every experiment.
 
-| Artifact | Status | Link |
-|----------|--------|------|
-| EdArXiv landscape snapshot | Live | [edarxiv-landscape-snapshot](https://github.com/jitendraapi/edarxiv-landscape-snapshot) |
-| Agentic SDLC kit | Live | [agentic-sdlc-kit](https://github.com/jitendraapi/agentic-sdlc-kit) |
-| Agent scenario kit | Planned | Companion eval / scenario pack when published |
+| Artifact | Link |
+|----------|------|
+| EdArXiv landscape snapshot | [edarxiv-landscape-snapshot](https://github.com/jitendraapi/edarxiv-landscape-snapshot) |
+| Agentic SDLC kit | [agentic-sdlc-kit](https://github.com/jitendraapi/agentic-sdlc-kit) |
 
 ## Contact
 
